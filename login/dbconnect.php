@@ -1,7 +1,7 @@
 <?php
     $host = 'localhost';
     $username = 'root';
-    $password = 'rkSsrA5w';
+    $password = 'root';
     $dbname = 'immersion';
 
     $con = mysqli_connect($host, $username, $password, $dbname);
