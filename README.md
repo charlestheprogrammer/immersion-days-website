@@ -29,7 +29,7 @@ Immersion Website
 | ------ subject/ (with the subject in PDF)
 | ------ users/
 |		|
-|		| ------ default/ (prefab for all users)
+|		| ------ default/ (template for all users)
 |		|		|
 |		|		| ------ dbconnect.php
 |		|		| ------ index.php
